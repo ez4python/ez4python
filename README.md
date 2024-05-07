@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akbarali Salohiddinov</h1>
-<h3 align="center">Junior Backend Developer from Uzbekistan</h3>
+<h3 align="center">Backend Developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarali-hah&label=Profile%20views&color=0e75b6&style=flat" alt="akbarali-hah" /> </p>
 

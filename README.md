@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akbarali Salohiddinov</h1>
 <h3 align="center">Backend Developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ez4python&label=Profile%20views&color=0e75b6&style=flat" alt="ez4python" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ez4python" alt="ez4python" /></a> </p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 - 📫 Contact me on **akbaralisalohiddinov808@gmail.com**
 
@@ -25,6 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ez4python&show_icons=true&locale=en" alt="ez4python" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ez4python&" alt="ez4python" /></p>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)

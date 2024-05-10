@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ez4python&show_icons=true&locale=en" alt="ez4python" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ez4python&" alt="ez4python" /></p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)

@@ -3,9 +3,6 @@
 </h1>
 <h3 align="center">Backend Developer from Uzbekistan</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 - 📫 Contact me on **akbaralisalohiddinov808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

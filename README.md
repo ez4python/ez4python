@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ez4python&" alt="ez4python" /></p>
 
-<img align="center" alt="coding-gif" width="400" src="coder.gif">
+<img style="display: flex; justify-content: center; align-items: center;" alt="coding-gif" width="400" src="coder.gif">

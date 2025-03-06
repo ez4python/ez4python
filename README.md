@@ -22,6 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ez4python&show_icons=true&locale=en" alt="ez4python" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ez4python&" alt="ez4python" /></p>
-
 <img style="display: flex; justify-content: center; align-items: center;" alt="coding-gif" width="400" src="coder.gif">
